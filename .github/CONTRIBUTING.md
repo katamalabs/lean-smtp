@@ -12,7 +12,7 @@ useful without adding weight or upsells.
 3. Make your change, with tests and passing lint (see below).
 4. Open a pull request against `main`.
 
-Take a look at the [issues](https://github.com/pjaudiomv/lean-smtp/issues) for
+Take a look at the [issues](https://github.com/katamalabs/lean-smtp/issues) for
 bugs and ideas you might be able to help with. Once your pull request is merged,
 it goes out in the next version.
 

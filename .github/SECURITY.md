@@ -13,7 +13,7 @@ Only the latest release of Lean SMTP receives security updates.
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Report privately through GitHub's [private vulnerability reporting](https://github.com/pjaudiomv/lean-smtp/security/advisories/new) — open the repository's **Security** tab and click **Report a vulnerability**.
+Report privately through GitHub's [private vulnerability reporting](https://github.com/katamalabs/lean-smtp/security/advisories/new) — open the repository's **Security** tab and click **Report a vulnerability**.
 
 Include as much of the following as you can:
 

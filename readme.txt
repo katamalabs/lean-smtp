@@ -1,5 +1,5 @@
 === Lean SMTP ===
-Contributors: pjaudiomv
+Contributors: katamalabs, pjaudiomv
 Tags: smtp, mail, email, ses, wp_mail
 Requires at least: 6.0
 Tested up to: 7.1
